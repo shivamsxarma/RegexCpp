@@ -12,5 +12,8 @@ int main (){
     c=d;
  }
 
+
+ cout<<"NO entry";
+
     return 0;
 }
