@@ -16,6 +16,18 @@ int main (){
  cout<<"NO entry";
  cout<<"NO entry";
  cout<<"NO entry";
+ cout<<"NO entry";
+ cout<<"NO entry";
+ cout<<"NO entry";
+ cout<<"NO entry";
+ cout<<"NO entry";
+ cout<<"NO entry";
+ cout<<"NO entry";
+ cout<<"NO entry";
+ cout<<"NO entry";
+ cout<<"NO entry";
+ cout<<"NO entry";
+ cout<<"NO entry";
 
     return 0;
 }
